@@ -11,7 +11,7 @@ L'objectif a été de mettre en avant les piscines rennaises et ainsi permettre 
 - Une partie administrateur pour pouvoir modifier le contenu des formules 
 
 # Cadre du projet 
-Ce projet a été réalisé dans le cadre de ma deuxième année de BTS SIO. 
+Ce projet a été réalisé dans le cadre de mes années de BTS SIO. 
 Il a été fait en groupe de 3 personnes.
 
 Mise en place de la base de données
